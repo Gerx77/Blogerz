@@ -6,4 +6,3 @@ C:\Code-Repositories\Blogerz\Blogerz.Model\obj\Debug\netcoreapp3.1\Blogerz.Model
 C:\Code-Repositories\Blogerz\Blogerz.Model\obj\Debug\netcoreapp3.1\Blogerz.Models.csproj.CoreCompileInputs.cache
 C:\Code-Repositories\Blogerz\Blogerz.Model\obj\Debug\netcoreapp3.1\Blogerz.Models.dll
 C:\Code-Repositories\Blogerz\Blogerz.Model\obj\Debug\netcoreapp3.1\Blogerz.Models.pdb
-C:\Code-Repositories\Blogerz\Blogerz.Model\obj\Debug\netcoreapp3.1\Blogerz.Models.csprojAssemblyReference.cache
