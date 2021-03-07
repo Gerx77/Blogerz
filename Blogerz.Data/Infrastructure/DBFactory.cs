@@ -1,10 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Blogerz.Data.Infrastructure
 {
-    class DBFactory
+    public interface IDbFactory : IDisposable
     {
+        BlogerzDbContext Init();
+    }
+
+    public class DBFactory : Disposable, IDbFactory
+    {
+        BlogerzDbContext dbContext;
+
+        public BlogerzDbContext Init()
+        {
+            return dbContext ?? (dbContext = new BlogerzDbContext());
+        }
+
+        protected override void DisposeCore()
+        {
+            if (dbContext != null)
+                dbContext.Dispose();
+        }
     }
 }

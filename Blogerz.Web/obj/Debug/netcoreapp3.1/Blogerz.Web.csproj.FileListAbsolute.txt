@@ -16,8 +16,6 @@ C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNe
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -26,9 +24,6 @@ C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Entit
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -195,3 +190,14 @@ C:\Code-Repositories\Blogerz\Blogerz.Web\obj\Debug\netcoreapp3.1\Razor\Views\Pos
 C:\Code-Repositories\Blogerz\Blogerz.Web\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
 C:\Code-Repositories\Blogerz\Blogerz.Web\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
 C:\Code-Repositories\Blogerz\Blogerz.Web\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Blogerz.Data.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Blogerz.Services.dll
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Blogerz.Services.pdb
+C:\Code-Repositories\Blogerz\Blogerz.Web\bin\Debug\netcoreapp3.1\Blogerz.Data.pdb

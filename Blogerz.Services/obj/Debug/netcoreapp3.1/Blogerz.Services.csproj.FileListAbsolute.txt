@@ -7,3 +7,11 @@ C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Se
 C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.csproj.CoreCompileInputs.cache
 C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.dll
 C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.pdb
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Services.runtimeconfig.json
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Services.runtimeconfig.dev.json
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Data.dll
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Models.dll
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Data.pdb
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Models.pdb
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.csproj.CopyComplete
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.genruntimeconfig.cache

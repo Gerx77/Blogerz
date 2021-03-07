@@ -1,10 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Blogerz.Data.Infrastructure
+﻿namespace Blogerz.Data.Infrastructure
 {
-    class UnitOfWork
+
+    public interface IUnitOfWork
     {
+        void Commit();
+    }
+
+    public class UnitOfWork : IUnitOfWork
+    {
+        private readonly IDbFactory dbFactory;
+        private BlogerzDbContext dbContext;
+
+        public UnitOfWork(IDbFactory dbFactory)
+        {
+            this.dbFactory = dbFactory;
+        }
+
+        public BlogerzDbContext DbContext
+        {
+            get { return dbContext ?? (dbContext = dbFactory.Init()); }
+        }
+
+        public void Commit()
+        {
+            DbContext.Commit();
+        }
     }
 }
