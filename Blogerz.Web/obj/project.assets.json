@@ -2710,6 +2710,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Blogerz.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Blogerz.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blogerz.Model.dll": {}
+        }
       }
     }
   },
@@ -8829,10 +8839,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Blogerz.Model/1.0.0": {
+      "type": "project",
+      "path": "../Blogerz.Model/Blogerz.Model.csproj",
+      "msbuildProject": "../Blogerz.Model/Blogerz.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Blogerz.Model >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.11",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.11",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.11",
@@ -8867,7 +8883,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj": {
+              "projectPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

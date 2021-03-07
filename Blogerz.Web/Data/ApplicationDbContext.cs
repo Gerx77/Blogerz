@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using Blogerz.Model.Models;
 
 namespace Blogerz.Web.Data
 {
@@ -10,7 +8,15 @@ namespace Blogerz.Web.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
+        { }
+            
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Post> Posts { get; set; }
+
+        public virtual void Commit()
         {
+            base.SaveChanges();
         }
+    
     }
 }
