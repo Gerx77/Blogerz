@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blogerz.Web", "Blogerz.Web\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blogerz.Models", "Blogerz.Model\Blogerz.Models.csproj", "{2F456ADB-016D-446F-9EF7-4537406C358F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blogerz.Services", "Blogerz.Services\Blogerz.Services.csproj", "{EAE0E3B4-C1FB-4D90-9774-87FD80576D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blogerz.Data", "Blogerz.Data\Blogerz.Data.csproj", "{F1D4D368-730F-4101-81B6-9269D5289D05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2F456ADB-016D-446F-9EF7-4537406C358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F456ADB-016D-446F-9EF7-4537406C358F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F456ADB-016D-446F-9EF7-4537406C358F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE0E3B4-C1FB-4D90-9774-87FD80576D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE0E3B4-C1FB-4D90-9774-87FD80576D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE0E3B4-C1FB-4D90-9774-87FD80576D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE0E3B4-C1FB-4D90-9774-87FD80576D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D4D368-730F-4101-81B6-9269D5289D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D4D368-730F-4101-81B6-9269D5289D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D4D368-730F-4101-81B6-9269D5289D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D4D368-730F-4101-81B6-9269D5289D05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Services.deps.json
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Services.dll
+C:\Code-Repositories\Blogerz\Blogerz.Services\bin\Debug\netcoreapp3.1\Blogerz.Services.pdb
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.csprojAssemblyReference.cache
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.AssemblyInfoInputs.cache
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.AssemblyInfo.cs
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.csproj.CoreCompileInputs.cache
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.dll
+C:\Code-Repositories\Blogerz\Blogerz.Services\obj\Debug\netcoreapp3.1\Blogerz.Services.pdb

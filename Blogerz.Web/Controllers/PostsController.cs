@@ -78,6 +78,8 @@ namespace Blogerz.Web.Controllers
             {
                 return NotFound();
             }
+
+            //ViewBag.BlogId = new SelectList(blogService.GetBlogs(), "BlogId", "Url", post.BlogId);
             return View(post);
         }
 
