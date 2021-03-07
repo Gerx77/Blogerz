@@ -4,12 +4,12 @@
     "C:\\Code-Repositories\\Blogerz\\Blogerz.Web\\Blogerz.Web.csproj": {}
   },
   "projects": {
-    "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj": {
+    "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj",
-        "projectName": "Blogerz.Model",
-        "projectPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj",
+        "projectUniqueName": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Models.csproj",
+        "projectName": "Blogerz.Models",
+        "projectPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Models.csproj",
         "packagesPath": "C:\\Users\\mattg\\.nuget\\packages\\",
         "outputPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\obj\\",
         "projectStyle": "PackageReference",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj": {
-                "projectPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj"
+              "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Models.csproj": {
+                "projectPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Models.csproj"
               }
             }
           }
@@ -112,11 +112,17 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.11, )"
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.12, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.11, )"
+              "version": "[3.1.12, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

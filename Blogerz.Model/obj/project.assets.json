@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj",
-      "projectName": "Blogerz.Model",
-      "projectPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Model.csproj",
+      "projectUniqueName": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Models.csproj",
+      "projectName": "Blogerz.Models",
+      "projectPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\Blogerz.Models.csproj",
       "packagesPath": "C:\\Users\\mattg\\.nuget\\packages\\",
       "outputPath": "C:\\Code-Repositories\\Blogerz\\Blogerz.Model\\obj\\",
       "projectStyle": "PackageReference",
