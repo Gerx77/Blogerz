@@ -1,15 +1,12 @@
 ﻿using Blogerz.Model.Models;
-using Microsoft.EntityFrameworkCore;
+using System.Data.Entity;
 
 namespace Blogerz.Data
 {
     public class BlogerzDbContext : DbContext
     {
-        public BlogerzDbContext() //: base(nameOrConnectionString: "BEDBConnectionString")
-        {
-
-        }
-
+        public BlogerzDbContext() : base(nameOrConnectionString: "BEDBConnectionString")
+        { }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
 

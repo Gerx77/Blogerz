@@ -80,6 +80,7 @@ namespace Blogerz.Web.Controllers
             }
 
             //ViewBag.BlogId = new SelectList(blogService.GetBlogs(), "BlogId", "Url", post.BlogId);
+            ViewBag.BlogId = _context.Blogs.ToList<Blog>();
             return View(post);
         }
 
